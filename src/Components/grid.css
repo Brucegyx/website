@@ -1,0 +1,15 @@
+.squares {
+
+  height: 100%;
+
+  margin: 20px 120px 20px 120px;
+  padding: 30px;
+}
+
+@media (max-width: 970px) {
+  .squares {
+    height: 100%;
+    margin: 20px 30px 20px 30px;
+    padding: 10px;
+  }
+}

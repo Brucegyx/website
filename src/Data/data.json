@@ -1,0 +1,44 @@
+{
+  "name": "test file",
+  "columnNum": 3,
+  "data": {
+    "column_1":[
+      {
+        "id": 1,
+        "title": "Why I chose to study Computer Science",
+        "date": "2019 Jun 24",
+        "content": "Ok, so this is a very abused topic. I'm going starght forward to my point. I chose Computer Science because of its potential to bring me money. Yes, it is that simple. Think about today's some leading industries such as Finance or Health Tech. None of them doesn't need a certain degree of computer science knowledge. For a finance company, softwares are essential. Not even to  mention Health Tech companies whose main product is about advanced technology. From my experience finding internship, most of the companies need people with particular skills for the position and CS knowledge. So I chose to study CS. If I can get the best out of what I learn in the university. I will be able to get a job in almost any industries. Working on what we love while making money is  everyone's dream. Studying CS gives me this opportunity. Yes, there will be competition, and the competition is sever in this industry. But which industry isn't like this. We need hope in ourselves and strive to be the top tier."
+      },
+        {
+          "id": 2,
+          "title": "Thoughts on foldable phones",
+          "date": "2019 Jun 24",
+          "content": "Recently manufactors, particularly Huawei and Samsung, announced their foldable phones. Not after Samsung's product shipped, people discovered that the products have a quality issues. Samsung called back all the products, lefting us wondering if this technology is matured enough to be put on the market? I have heard many people's comments on this topic from the initial announcement of foldable phones. Most people and all the tech-youtubers showed a lot of interest in the technology. One thing that I don't understand is why the manufactors don't build regular-size phones that can fold smaller, like the old flip-screen phones. Personally, I would never carry a phone that is twice as heavy and thick as a regular phone, just for a larger screen. I wish the manufactors can improve this technology and build phones reducing consumers' effort to carry around. That would be very great."
+        },
+        {
+          "id": 3,
+          "title": "Wonders about world pt.1",
+          "date": "2019 Jun 24",
+          "content": "I'm not an professional on physics nor expert of any sort. All the things I write about are fictional. Please don't take seriously. Wondering about the truth about the world, the universe is a very often activity for me. Looking at the stars at night, I would think about the fundamental rules about universe. What are really there in the universe? What really happened in the acient time before any lives appears? The best physicians in our era can't find a best theory to describe our world. Is Quantum Physics really the truth? Does our reality depend on probablity? Maybe our world is maipulated and control by higher dimensional beings. Maybe we are the only intellectual specie in the entire universe. Maybe in the ancient time, life on earth was created by extraterrestrial life. There may be supernatural beings on the earth just no one had ever discovered."
+        }
+      ],
+    "column_2":[
+      {
+        "id": 4,
+        "title": "Why I chose to study Computer Science",
+        "date": "2019 Jun 24",
+        "content": "Ok, so this is a very abused topic. I'm going starght forward to my point. I chose Computer Science because of its potential to bring me money. Yes, it is that simple. Think about today's some leading industries such as Finance or Health Tech. None of them doesn't need a certain degree of computer science knowledge. For a finance company, softwares are essential. Not even to  mention Health Tech companies whose main product is about advanced technology. From my experience finding internship, most of the companies need people with particular skills for the position and CS knowledge. So I chose to study CS. If I can get the best out of what I learn in the university. I will be able to get a job in almost any industries. Working on what we love while making money is  everyone's dream. Studying CS gives me this opportunity. Yes, there will be competition, and the competition is sever in this industry. But which industry isn't like this. We need hope in ourselves and strive to be the top tier."
+      },
+      {
+        "id": 5,
+        "title": "Starting this internship",
+        "date": "2019 Jun 24",
+        "content": "Started this term in Singapore. Very beautiful country, compared to Canada and my hometown. I was hoping this term could be a chance for me to get more experience with actual coding projects. Based on the infomation I got, my support will be very limited. Learning all the relative materials would be the first thing I have to do. Well ... my supervisor is professional in System Science/Data Analytic. All of my work will be related to those fields. Since I don't have any experience with that right now, there are so much that I need to catch up, I suppose..."
+      }
+    ],
+    "column_3": [
+
+    ]
+  }
+
+}

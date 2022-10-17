@@ -1,0 +1,48 @@
+#sk-tab {
+  font-weight: bold;
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+  min-width: 150px;
+}
+
+#sk-tab:hover{
+
+  border: none;
+
+}
+.sk-contain {
+  height: 100%;
+  width: 100%;
+  display: flex;
+
+  text-align: left;
+  align-items: center;
+}
+
+
+
+.pro-bar {
+  width: 0;
+  background-color: #CECECE;
+  min-height: 10px;
+  height: 5px;
+  margin: 5px;
+  border-radius: 25px;
+}
+
+#fa {
+  margin: 15px;
+  border: none;
+  color: #CECECE;
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  width: 100%;
+  width: 50px;
+  opacity: 0;
+}
+
+#fa:disabled {
+  background: none;
+}
